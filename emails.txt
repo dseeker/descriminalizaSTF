@@ -1,0 +1,11 @@
+Ministro Carlos Ayres Britto <presidencia@stf.gov.br>,
+Ministro Joaquim Barbosa <gabminjoaquim@stf.jus.br>,
+Ministro Celso de Mello <gabcob@stf.jus.br>,
+Ministro Marco Aurélio <marcoaurelio@stf.jus.br>,
+Ministro Gilmar Mendes <audienciasgilmarmendes@stf.jus.br>,
+Ministro Cezar Peluso <mluciam@stf.jus.br>,
+Ministro Ricardo Lewandowski <gabinete-lewandowski@stf.jus.br>,
+Ministro Dias Toffoli <gabmtoffoli@stf.jus.br>,
+Ministro Luiz Fux <gabineteluizfux@stf.jus.br>,
+Ministra Carmen Lúcia <audienciacarmen@stf.jus.br>,
+Ministra Rosa Maria <audiencias-minrosaweber@stf.jus.br>

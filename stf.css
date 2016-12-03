@@ -1,0 +1,13 @@
+@charset "utf-8";
+/* CSS Document */
+
+#header {
+	background-color: #195F4D;
+	padding: 30px;
+}
+#title {
+	font-family: "FuturaStdHeavy";
+	font-size: 36px;
+	color: #FFF;
+	float:right;
+}

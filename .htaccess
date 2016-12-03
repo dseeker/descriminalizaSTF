@@ -1,0 +1,8 @@
+#Redirect 301 /descriminalizastf http://debatevisual.com/psicoativo/stf {NC]
+#RewriteEngine On 
+#RewriteRule ^ http://debatevisual.com/psicoativo/stf/index.html [L]
+
+RewriteEngine On
+RewriteBase /
+RewriteCond %{HTTP_HOST} marchadamaconha\.org
+RewriteRule . http://debatevisual.com/psicoativo/stf [L]

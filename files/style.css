@@ -1,0 +1,385 @@
+.fancy-button-reset-base-class,.submit-button,.submit_link a,.submit-button-huge,.submit_link_huge a,.destroy-button,.destroy_link a,.destroy-button-huge,.destroy_link_huge a,.success-button,.success_link a,.success-button-small,.success_link_small a,.silver-button,.silver_link a,.green-button,.green_link a,.blue-button,.blue_link a,.twitter-button,.twitter_link a {
+font-family: "Lucida Grande", Lucida, Arial, sans-serif;
+background: url(images/button_bg.png?1326220270) repeat-x bottom left;
+margin: 0;
+width: auto;
+overflow: visible;
+display: inline-block;
+cursor: pointer;
+text-decoration: none;
+border-style: solid;
+font-weight: bold
+}
+
+.submit-button,.submit_link a {
+border-radius: 3px;
+-moz-border-radius: 3px;
+-webkit-border-radius: 3px;
+font-size: 14px;
+line-height: 1.2em;
+padding: 0.3em 1em;
+border-width: 1px;
+background-color: #0791de;
+background-image: -webkit-gradient(linear, 50% 0%, 50% 100%, color-stop(0%, #a8cfe5), color-stop(10%, #62a8d0), color-stop(50%, #317ba4), color-stop(50%, #2e7298), color-stop(100%, #3a90c0));
+background-image: -webkit-linear-gradient(#a8cfe5, #62a8d0 10%, #317ba4 50%, #2e7298 50%, #3a90c0);
+background-image: -moz-linear-gradient(#a8cfe5, #62a8d0 10%, #317ba4 50%, #2e7298 50%, #3a90c0);
+background-image: -o-linear-gradient(#a8cfe5, #62a8d0 10%, #317ba4 50%, #2e7298 50%, #3a90c0);
+background-image: linear-gradient(#a8cfe5,#62a8d0 10%,#317ba4 50%,#2e7298 50%,#3a90c0);
+border-color: #235875;
+text-shadow: #034062 0px 1px 1px;
+-moz-box-shadow: rgba(255,255,255,0.449) 0 0 0.1em 1px inset;
+-webkit-box-shadow: rgba(255,255,255,0.449) 0 0 0.1em 1px inset;
+-o-box-shadow: rgba(255,255,255,0.449) 0 0 0.1em 1px inset;
+box-shadow: rgba(255,255,255,0.449) 0 0 0.1em 1px inset;
+-moz-background-clip: padding;
+-webkit-background-clip: padding;
+-o-background-clip: padding-box;
+-ms-background-clip: padding-box;
+-khtml-background-clip: padding-box;
+background-clip: padding-box
+}
+.submit-button,.submit-button:visited,.submit_link a,.submit_link a:visited {
+color: white
+}
+
+.padtop {
+padding-top: 10px
+}
+
+table {
+width: 100%
+}
+
+.one_column .form {
+
+}
+.form label {
+color: #484848;
+margin-bottom: 5px
+}
+.form .text,.form .textarea,.form .quantity,.form .share_url {
+font-family: Helvetica, Arial, sans-serif;
+font-size: 1em;
+padding: 4px;
+border-color: #000;
+border-width: 1px;
+border-style: solid
+}
+.form .text {
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+-ms-box-sizing: border-box;
+box-sizing: border-box;
+padding: 4px;
+width: 90%;
+margin-top: 5px
+}
+
+.form_wrap {
+background-color: #f2f2f2;
+padding: 0px 20px 20px 20px;
+margin: 1.12em 0;
+width: 500px;
+border-radius: 6px;
+-moz-border-radius: 6px;
+-webkit-border-radius: 6px
+}
+
+#like_page {clear: both; margin-left:50%; position:relative; left:-146px; padding-bottom:30px;}
+#sharefb, #sharetw, #shareg{float:left; width:130px; overflow:hidden; cursor:pointer;}
+#sharetw{width:100px;}
+
+.width_container {
+width: 960px;
+margin: 0px auto
+}
+body {
+margin: 0px;
+padding: 0px;
+height:100%;
+}
+table {
+font-size: 100%
+}
+a img {
+border: none
+}
+ul,ol,dir,menu,dd {
+margin: 1.2em 0 1.2em 0px
+}
+h1,h2,h3,h4,h5,h6 {
+margin: 0px;
+padding: 0px
+}
+#body {
+	text-align: left;
+	font-size: 14px;
+	font-family: Helvetica, Arial, sans-serif;
+	line-height: 40px;
+	vertical-align:central;
+}
+#body p {}
+#body strong {
+font-weight: bold
+}
+#body em {
+font-style: italic
+}
+#body h1 {
+font-size: 2em;
+line-height: 1.3em;
+font-weight: normal;
+font-family: "museo-1", "museo-2", Georgia, Times, Times New Roman, serif;
+color: black
+}
+#body h2 {
+font-size: 1.9em;
+font-weight: normal;
+font-family: "museo-1", "museo-2", Georgia, Times, Times New Roman, serif;
+color: black
+}
+#body h3 {
+font-size: 22px;
+line-height: 25px;
+font-weight: normal;
+font-family: "museo-1", "museo-2", Georgia, Times, Times New Roman, serif;
+color: black
+}
+#body h3 a {
+color: black
+}
+#body h3 a:hover {
+color: #3584b0;
+text-decoration: none
+}
+
+a {
+color: #3584b0;
+text-decoration: none
+}
+a:hover {
+text-decoration: underline
+}
+a:visited {
+color: #3584b0
+}
+#middle {
+border-top: 5px solid #c4c4c4;
+padding: 40px 0 0 0
+}
+.suggestion_tag,.page_tag {
+border-radius: 0px;
+-moz-border-radius: 0px;
+-webkit-border-radius: 0px
+}
+.tag_list td a {
+border-radius: 0px;
+-moz-border-radius: 0px;
+-webkit-border-radius: 0px
+}
+#petition_content {
+font-size: 1.4em;
+line-height: 1.5em
+}
+.plus,.plus_left {
+background-color: #296789;
+color: white;
+font-weight: bold;
+padding: 3px 4px 3px 4px;
+font-size: 1em
+}
+.plus:hover,.plus_left:hover {
+background-color: #3584b0
+}
+.plus a,.plus a:link,.plus a:visited,.plus_left a,.plus_left a:link,.plus_left a:visited {
+color: white;
+text-decoration: none
+}
+.plus a:hover,.plus_left a:hover {
+color: white;
+text-decoration: none
+}
+#header_wrap {
+padding: 35px 0px;
+border-bottom: 1px solid #c4c4c4
+}
+
+.form_wrap,.supporter_pc_balance_bg,.user_profile_note_container,.form_wrap_twocol,.stat-box {
+background-color: #f2f2f2;
+border-radius: 0px;
+-moz-border-radius: 0px;
+-webkit-border-radius: 0px
+}
+.form_wrap {
+background-color: #f2f2f2
+}
+#footer {
+border-top: 5px solid #c4c4c4;
+padding: 25px 0px;
+margin: 15px 0 25px 0;
+color: black;
+font-size: 0.85em
+}
+
+.form .text {
+width: 90%
+}
+
+.nav_container {
+padding: 0;
+margin-top: 15px;
+margin-left: -20px;
+margin-bottom: 15px;
+margin-right: 0px
+}
+
+#middle {
+padding: 20px 0 0 0
+}
+#body h1 {
+font-size: 1.875em;
+line-height: 1.3em;
+color: #333
+}
+#body h2 {
+color: #333
+}
+#body h3 {
+font-size: 1.25em;
+line-height: 1.25em;
+color: #333
+}
+#body h3 a:hover {
+text-decoration: underline
+}
+
+.gmoro #body .bothwidcontnrs {
+background-color: #faf9f2;
+margin: 0 auto;
+width: 970px;
+padding: 0 20px
+}
+.gmoro #body,body {
+background-color: #faf9f2
+}
+#body {
+font-size: 0.8125em;
+line-height: 0em;
+color: #555555
+}
+.twocolumn_container,#middle,.width_container {
+width: 100%
+}
+.bothwidcontnrs {
+padding: 0 !important;
+width: 1000px !important
+}
+
+.submit_link a,.submit_link_huge a,.submit-button {
+font-family: "museo-1", "museo-2", Georgia, Times, Times New Roman, serif;
+text-transform: uppercase;
+letter-spacing: 1px;
+font-size: 1em;
+font-weight: normal;
+text-shadow: 0px 1px 1px #555555;
+background-position: -1000px;
+background-image: none;
+background: #b73532;
+color: #ffffff;
+border: 1px solid #b73532;
+box-shadow: none
+}
+
+#announcement_homepage_container{
+border-width: 1px;
+border-color: #cccccc;
+border-style: solid;
+-moz-box-shadow: rgba(0,0,0,0.25) 1px 1px 2px 0;
+-webkit-box-shadow: rgba(0,0,0,0.25) 1px 1px 2px 0;
+-o-box-shadow: rgba(0,0,0,0.25) 1px 1px 2px 0;
+box-shadow: rgba(0,0,0,0.25) 1px 1px 2px 0;
+border-top-width: 1px;
+border-top-style: solid;
+
+}
+
+#announcement_homepage_container h3 p a, #announcement_homepage_container a h1 p {
+    color: #3584B0
+}
+#announcement_homepage_container h3 p, #announcement_homepage_container a h1 p {
+	margin: 0;
+	padding: 0;
+	font-size: 24px;
+}
+#petition_homepage_container, #petition_homepage_container-thanks,#video_homepage_container {
+background-color: #fff;
+border-width: 1px;
+border-color: #cccccc;
+border-style: solid;
+-moz-box-shadow: rgba(0,0,0,0.25) 1px 1px 2px 0;
+-webkit-box-shadow: rgba(0,0,0,0.25) 1px 1px 2px 0;
+-o-box-shadow: rgba(0,0,0,0.25) 1px 1px 2px 0;
+box-shadow: rgba(0,0,0,0.25) 1px 1px 2px 0;
+border-top-width: 1px;
+border-top-style: solid;
+padding: 20px 15px;
+width: 460px;
+height: 400px
+}
+
+#video_homepage_container div h2 p {
+    margin: 0 0 10px 0;
+    padding: 0;
+}
+#petition_homepage_container, #petition_homepage_container-thanks {
+background-image: url("images/petition_home_background_2.png");
+background-position: bottom;
+background-repeat: no-repeat
+}
+#petition_homepage_container .form_wrap, #petition_homepage_container-thanks .form_wrap {
+width: 420px;
+background-color: #f2f2f2;
+margin-bottom: 0px !important;
+padding-bottom: 0px !important
+}
+
+.gmoro #header_wrap {
+border-bottom: none;
+padding: 0
+}
+.gmoro #header {
+margin: 0 auto;
+width: 1010px;
+background-color: #faf9f2
+}
+.header_img {
+position: relative;
+z-index: 111
+}
+.gmoro #header .nav_container {
+margin: 0;
+padding: 3px 0 8px 0
+}
+#middle {
+border-top: none
+}
+
+.form label {
+text-shadow: 0px 1px 1px #fff;
+color: #7d7d7d
+}
+input.text,textarea {
+border: 1px solid #ccc !important;
+color: #585858;
+text-shadow: 0px 1px 1px #fff;
+background: #ffffff;
+box-shadow: 1px 1px 3px #e8e8e8 inset
+}
+input.text:focus,textarea:focus {
+	outline: none;
+	border: 1px solid #3584b0 !important;
+	transition: all 0.25s ease-in-out;
+	-webkit-transition: all 0.25s ease-in-out;
+	-moz-transition: all 0.25s ease-in-out;
+}
+#sobre{float:clear; width:330px; line-height:16px; }
